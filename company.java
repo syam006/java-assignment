@@ -38,6 +38,7 @@ return salary+Bonous;
 
 class main{
 public static void main(String []args){
+System.out.println("BATCHU SYAM SUNDER "+'\n'+"AV.SC.U4CSE24023"+'\n'+"CSE-A");
 RegularEmployee employe = new RegularEmployee("chaitu",00000);
 employe.display();
 System.out.println("salary of a regular employee:"+employe.getsalary(30.0));
